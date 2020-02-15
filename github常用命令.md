@@ -65,7 +65,7 @@ echo "This is version 1.0" >>~/Projects/git_res/README.txt
 ### 9.把文件添加到仓库
 ```
 git add README.txt
-commit -m "first commit"
+git commit -m "first commit"
 git push -u origin master
 ```
 
